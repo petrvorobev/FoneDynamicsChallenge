@@ -69,6 +69,7 @@ Visited Points 275 of 412 (66.75)
 Visited Branches 78 of 108 (72.22)
 
 ==== Alternative Results (includes all methods including those without corresponding source) ====
+
 Alternative Visited Classes 13 of 17 (76.47)
 
 Alternative Visited Methods 59 of 71 (83.1)

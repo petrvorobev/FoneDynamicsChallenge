@@ -69,7 +69,6 @@ Visited Branches 78 of 108 (72.22)
 Alternative Visited Classes 13 of 17 (76.47)
 Alternative Visited Methods 59 of 71 (83.1)
 
-
 B. Performance Test Results
 
 Machine: Core i7 + 16GB RAM 

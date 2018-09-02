@@ -6,7 +6,7 @@ Reference FoneDynamicsChallenge.Caching project in your solution.
 
 Create instances of ICache<TKey, TValue> implementations directly or via Dependency Injection.
 
-Sample usage is shouwn in project FoneDynamicsChallenge.Sample.
+Sample usage is shown in project FoneDynamicsChallenge.Sample.
 
 Solution Structure:
 -------------------------------------------------

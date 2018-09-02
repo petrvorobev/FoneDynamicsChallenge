@@ -83,16 +83,22 @@ Summary
 Max Concurrency Mode
 
 Implementation		A		B		C
+
 Reads/s			377310	504528	2098720
+
 Writes/s		75462	100905	 419744
 
 
 Memory Utilization Mode
 
 Implementation		A		B		C
+
 Reads/s			98468    114192  316652
+
 Writes/s		19693     22838   63330
+
 Max Memory(MB)  11369     11307   11175
+
 Avg Memory(MB)   7373      8588    7085
 
 Details

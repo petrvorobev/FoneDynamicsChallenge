@@ -1,5 +1,6 @@
 
 How to Use:
+-------------------------------------------------
 
 Reference FoneDynamicsChallenge.Caching project in your solution.
 
@@ -8,6 +9,7 @@ Create instances of ICache<TKey, TValue> implementations directly or via Depende
 Sample usage is shouwn in project FoneDynamicsChallenge.Sample.
 
 Solution Structure:
+-------------------------------------------------
 
 Module FoneDynamicsChallenge.Caching
 
@@ -46,6 +48,7 @@ Module FoneDynamicsChallenge.Sample
 This project contain the example of FoneDynamicsChallenge.Caching utilization.
 
 Appendixes:
+-------------------------------------------------
 
 A. Code Coverage Calculation
 
@@ -89,7 +92,9 @@ Max Memory(MB)  11369     11307   11175
 Avg Memory(MB)   7373      8588    7085
 
 Details
+
 -------------Max Concurrency Mode----------------
+
 Cache type: FoneDynamicsChallenge.Caching.ImplementationA.MemoryCache`2
 Threads: 50, Items per thread: 100000, Reads per thread: 500000
 Time Elapsed: 00:01:06.2583872
@@ -113,9 +118,9 @@ Total reads: 25000000, total writes: 5000000
 Reads per second: 2098720, writes per second: 419744
 Max memory used (MB): 304
 Average memory used (MB): 279
--------------------------------------------------
 
 -------------Memory Utilization Mode-------------
+
 Cache type: FoneDynamicsChallenge.Caching.ImplementationA.MemoryCache`2
 Threads: 50, Items per thread: 100000, Reads per thread: 500000
 Time Elapsed: 00:04:13.8871843
@@ -139,4 +144,4 @@ Total reads: 25000000, total writes: 5000000
 Reads per second: 316652, writes per second: 63330
 Max memory used (MB): 11175
 Average memory used (MB): 7085
--------------------------------------------------
+

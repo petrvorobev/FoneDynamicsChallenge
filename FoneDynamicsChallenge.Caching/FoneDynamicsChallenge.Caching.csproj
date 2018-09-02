@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <DebugType>Full</DebugType>
+</PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ICache.cs" />
+    <Compile Remove="ImplementationA\DefaultEqualityComparer.cs" />
+    <Compile Remove="ImplementationA\MemoryCacheItem.cs" />
+  </ItemGroup>
+
+</Project>

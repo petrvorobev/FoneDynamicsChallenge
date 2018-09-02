@@ -61,12 +61,16 @@ OpenCover.Console.exe -target:"C:/Program Files/dotnet/dotnet.exe" -targetargs:"
 Current code coverage:
 
 Visited Classes 9 of 12 (75)
+
 Visited Methods 49 of 58 (84.48)
+
 Visited Points 275 of 412 (66.75)
+
 Visited Branches 78 of 108 (72.22)
 
 ==== Alternative Results (includes all methods including those without corresponding source) ====
 Alternative Visited Classes 13 of 17 (76.47)
+
 Alternative Visited Methods 59 of 71 (83.1)
 
 B. Performance Test Results
